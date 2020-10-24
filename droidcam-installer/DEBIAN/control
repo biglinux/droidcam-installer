@@ -1,0 +1,10 @@
+Package: droidcam-installer
+Version: 1.0.0-1big1
+Depends: libjpeg-turbo-official, gtk+-3.0, libavutil-dev, libswscale-dev, libasound2-dev, libspeex-dev, adb
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:
+Description: This interface download and install latest version of droidcam
+
